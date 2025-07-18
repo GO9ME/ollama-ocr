@@ -1,0 +1,6 @@
+torch
+transformers
+pillow
+easyocr
+opencv-python
+requests
